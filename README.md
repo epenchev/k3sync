@@ -1,2 +1,4 @@
-# K3sync - K3s replicated control-plane.
-A two node High Availability K3s control-plane, K3s system replication.
+# Kpglite - A replicated sqlite for the Edge and K8s.
+Create your own replicated sqlite ecosystem for Edge or K8s.
+Now you can run a High Availability K8s clusters consisting of only two nodes.
+
